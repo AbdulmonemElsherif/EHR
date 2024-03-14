@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\DELL\Downloads\test\EHR-django-main\EHR-django-main\DjangoEHR\med"
+VIRTUAL_ENV="C:\python project\Distributed-Lab\EHR\med"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

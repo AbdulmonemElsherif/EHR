@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\DELL\Downloads\test\EHR-django-main\EHR-django-main\DjangoEHR\med
+set VIRTUAL_ENV=C:\python project\Distributed-Lab\EHR\med
 
 if not defined PROMPT set PROMPT=$P$G
 
